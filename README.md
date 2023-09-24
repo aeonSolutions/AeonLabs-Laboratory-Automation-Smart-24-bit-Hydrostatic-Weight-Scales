@@ -19,6 +19,10 @@
 # Smart 24-bit Hydrostatic Weight Scale
 
 
+<p align="center">
+    <img height="250px" src="https://github.com/aeonSolutions/AeonLabs-Laboratory-Automation-Smart-24-bit-Hydrostatic-Weight-Scales/blob/main/media/acrylic%20hydrostatic%20weight%20scale_with_speciment_on_top.jpg">
+    <img height="250px" src="https://github.com/aeonSolutions/AeonLabs-Laboratory-Automation-Smart-24-bit-Hydrostatic-Weight-Scales/blob/main/media/acrylic%20hydrostatic%20weight%20scale_red_usb_cable_1.jpg"> 
+</p>
 
 <br>
 
