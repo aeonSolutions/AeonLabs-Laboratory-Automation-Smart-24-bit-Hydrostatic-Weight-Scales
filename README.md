@@ -18,6 +18,8 @@
 
 # Smart 24-bit Hydrostatic Weight Scale
 
+This 24-bit hydrostatic weight scale is S.D.A.D. compatible and is able to do weight measurments up to 20Kg. 
+
 
 <p align="center">
     <img height="250px" src="https://github.com/aeonSolutions/AeonLabs-Laboratory-Automation-Smart-24-bit-Hydrostatic-Weight-Scales/blob/main/media/acrylic%20hydrostatic%20weight%20scale_with_speciment_on_top.jpg">
