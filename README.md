@@ -26,6 +26,16 @@
 
 <br>
 
+## Parts List
+ - [Plexiglass Clear Acrylic Board](https://s.click.aliexpress.com/e/_Ddi8Lh5)
+ - [Load Cell HX711 ](https://s.click.aliexpress.com/e/_DBjevT1)
+ - [aluminum flat hex socket countersunk head screw size M4 20mm](https://www.aliexpress.com/item/32964202588.html?spm=a2g0o.order_list.order_list_main.4.f3a61802ivrUvG)
+ - [aluminum flat hex socket countersunk head screw size M5 20mm](https://www.aliexpress.com/item/32964202588.html?spm=a2g0o.order_list.order_list_main.4.f3a61802ivrUvG)
+ - [connector Cable M8 waterproof 4-pin](https://s.click.aliexpress.com/e/_DCR6iBd)
+ - [USB-C cable](https://s.click.aliexpress.com/e/_De4Q32X)
+
+<br>
+
 ## Compatibility
 
 <p align="center">
