@@ -27,6 +27,7 @@
 <br>
 
 ## Parts List
+ - [S.D.A.D. hardware electronics](http://www.tindie.com/stores/aeonlabs)
  - [Plexiglass Clear Acrylic Board](https://s.click.aliexpress.com/e/_Ddi8Lh5)
  - [Load Cell HX711 ](https://s.click.aliexpress.com/e/_DBjevT1)
  - [aluminum flat hex socket countersunk head screw size M4 20mm](https://www.aliexpress.com/item/32964202588.html?spm=a2g0o.order_list.order_list_main.4.f3a61802ivrUvG)
