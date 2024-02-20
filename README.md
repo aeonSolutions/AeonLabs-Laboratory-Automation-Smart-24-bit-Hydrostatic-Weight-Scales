@@ -18,7 +18,7 @@
 
 # 24-bit Smart data Acquisiton SDAD for Weight Measurments
 
-This is a 24-bit weight scale, S.D.A.D. compatible, and is able to do hydrostatic weight measurments up to 20Kg. 
+This is a 24-bit S.D.A.D. weight scale capable to do hydrostatic weight measurments up to 20Kg. 
 
 
 <p align="center">
